@@ -5,7 +5,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Training;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
+  <<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Germania+One&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=The+Soul+Cinder;Cybersecurity+Student+In+Training." alt="Typing SVG" /> </a>
 </div>
 
 <br/>
