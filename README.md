@@ -36,7 +36,7 @@ Currently deepening my studies in **Python**, **SQL** and **web development**, a
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Git** and am currently exploring **AWS & Cloud Computing**.
 
-<img align="right" width="240px" src="https://raw.githubusercontent.com/najuiamnc/najuiamnc/main/char.jpg" alt="Bloodborne Hunter"/>
+<img align="right" width="240px" src=https://github.com/torrezx/torrezx/blob/main/malboro.jpg alt="Malboro"/>
 
 ```
 ◈  Class     →  Backend / Full-Stack Apprentice
