@@ -28,13 +28,9 @@
 
 ---
 
-**Backend Developer in Training**
+**Cybersecurity student in training.**
 
-> *"We are born of the blood, made men by the blood, undone by the blood."*
-
-Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
-
-I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Git** and am currently exploring **AWS & Cloud Computing**.
+> **“I like roses best. But they bloom in all four seasons. I wonder if people who like roses best have to die four times over again.”**
 
 <img align="right" width="240px" src=https://github.com/torrezx/torrezx/blob/main/malboro.jpg alt="Malboro"/>
 
@@ -43,7 +39,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 ◈  Origin    →  Brazil 🇧🇷
 ◈  Covenant  →  Open Source
 ◈  Build     →  INT / DEX
-◈  Status    →  Hunter. Refuses to go hollow.
+◈  Status    →  The Abysswalker
 ```
 
 <br clear="right"/>
