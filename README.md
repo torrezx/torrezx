@@ -36,9 +36,13 @@
 
 ```
 ◈  Class     →  Backend / Full-Stack Apprentice
+
 ◈  Origin    →  Brazil 🇧🇷
+
 ◈  Covenant  →  Open Source
+
 ◈  Build     →  INT / DEX
+
 ◈  Status    →  The Abysswalker
 ```
 
