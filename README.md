@@ -13,8 +13,8 @@
 <!-- CONTACT -->
 <div align="center">
 
-[![LinkedIn]()
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)]()
+![LinkedIn]()
+![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)]()
 
 </div>
 
