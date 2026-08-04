@@ -39,8 +39,6 @@
 
 ◈  Origin    →  Brazil 🇧🇷
 
-◈  Covenant  →  Open Source
-
 ◈  Build     →  INT / DEX
 
 ◈  Status    →  The Abysswalker
@@ -59,19 +57,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
-
-</div>
-
----
-
-## Statistics
-
-<div align="center">
-  
-<br/><br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=najuiamnc&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuiamnc&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
