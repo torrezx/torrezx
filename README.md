@@ -67,9 +67,7 @@
 ## Statistics
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=najuiamnc&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
-
+  
 <br/><br/>
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=najuiamnc&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
